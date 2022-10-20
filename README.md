@@ -1,7 +1,4 @@
-# robotsys202x
-システム学
-
-<2022> < Takazawa Takumi> 
+2022  Takazawa Takumi 
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
