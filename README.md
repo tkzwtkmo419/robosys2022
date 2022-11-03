@@ -1,6 +1,17 @@
 # robosys2022
 ロボットシステム学の練習リポジトリ
 
+# plusコマンド
+![test](https://github.com/tkzwtkmo419/robosys2022/actions/workflows/test.yml/badge.svg)
+
+## 必要なソフトウェア
+* Python
+  * テスト済み: 3.7~3.10
+
+## テスト環境
+* Ubuntu
+
+##　ライセンス
 2022  Takazawa Takumi 
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
