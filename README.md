@@ -1,3 +1,6 @@
+# robosys2022
+ロボットシステム学の練習リポジトリ
+
 2022  Takazawa Takumi 
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
