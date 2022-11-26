@@ -4,14 +4,19 @@
 # plusコマンド
 ![test](https://github.com/tkzwtkmo419/robosys2022/actions/workflows/test.yml/badge.svg)
 
-## 目的
+# 目的
 * 正しく計算が行われているかを判断する
 
-##　インストール
+#　実行方法
 
 ```
 $git clone git@github.com:tkzwtkmo419/robosys2022.git
 $cd robosys2022
+$mkdir .github
+$cd .github/
+$mkdir workflows
+$cd workflowes/
+$touch test.yml
 
 ```
 
