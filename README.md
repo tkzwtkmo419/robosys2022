@@ -9,7 +9,6 @@
 
 # 実行方法
 
-* 手順１　以下に沿って行う
 
 ```
 $git clone git@github.com:tkzwtkmo419/robosys2022.git
@@ -22,8 +21,10 @@ $touch test.yml
 $vi test.yml
 
 ```
-* 手順２ gitにpushする
-* 手順３ github上で、テストが正常に行われているかを確認する
+# 使いかた
+
+* 1 ここまでやってきたことをgitにpushする
+* 2 github上で、テストが正常に行われているかを確認する
 
 ## 必要なソフトウェア
 * Python
