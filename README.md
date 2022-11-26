@@ -25,24 +25,6 @@ $vi test.yml
 * 手順２ gitにpushする
 * 手順３ github上で、テストが正常に行われているかを確認する
 
-# test.ymlのコード
-
-```
-name: test
-on: push
-jobs:
-  test:
-    runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        phython-version: ["3.7", "3.8", "3.9", "3.10"]
-    steps:
-    - uses: actions/checkout@v3
-    - name: All test
-      run: bash -xv ./test.bash
-
-```
-
 ## 必要なソフトウェア
 * Python
   * テスト済み: 3.7~3.10
