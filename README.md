@@ -7,6 +7,13 @@
 ## 目的
 * 正しく計算が行われているかを判断する
 
+##　インストール
+
+---
+$git clone git@github.com:tkzwtkmo419/robosys2022.git
+$cd robosys2022
+---
+
 ## 使いかた
 * 1 Ubuntuをインストール
 * 2 Ubuntuの中でLinuxが使えるようにする
