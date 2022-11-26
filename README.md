@@ -19,14 +19,23 @@ $cd workflowes/
 $touch test.yml
 
 ```
+# test.ymlのコード
 
-## 使いかた
-* 1 Ubuntuをインストール
-* 2 Ubuntuの中でLinuxが使えるようにする
-* 3 Pythonを使って以下のファイルを作る
-* 4 githubのリポジトリに.github/workflowsというディレクトリを作成
-* 5 そこの中に.ymlという以下のファイルを作成
-* 6 それらをすべてpushしてテストの結果を確認
+```
+name: test
+on: push
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        phython-version: ["3.7", "3.8", "3.9", "3.10"]
+    steps:
+    - uses: actions/checkout@v3
+    - name: All test
+      run: bash -xv ./test.bash
+
+```
 
 ## 必要なソフトウェア
 * Python
