@@ -7,7 +7,7 @@
 # 目的
 * 正しく計算が行われているかを判断する
 
-#　実行方法
+# 実行方法
 
 ```
 $git clone git@github.com:tkzwtkmo419/robosys2022.git
