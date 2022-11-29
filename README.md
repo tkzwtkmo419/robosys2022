@@ -12,11 +12,10 @@
 
 ```
 $git clone https://github.com/tkzwtkmo419/robosys2022.git
-$cd robosys2022
-
+$cd robosys2022 
 
 ```
-#　スクリプトの説明
+# スクリプトの説明
 
 * 0と入力された数字の全部を足して出た答えを出力するプログラム
   具体例　入力がseq 5だと　0 1 2 3 4 5の6つを足し合わせて15になる
