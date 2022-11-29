@@ -5,7 +5,7 @@
 ![test](https://github.com/tkzwtkmo419/robosys2022/actions/workflows/test.yml/badge.svg)
 
 # 目的
-* 正しく処理が行われているかを確認する
+* ユーザーに使ってもらう
 
 # パッケージのインストール方法
 
