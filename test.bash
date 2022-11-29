@@ -1,6 +1,6 @@
 #!/bin/bash -xv
 #SPDX-FileCopyrightText: 2022 Takumi Takazawa tkzwpen0419@outlook.jp
-#SPDX-License=Identifier: GPL-3.0
+#SPDX-License=Identifier: BSD-3-Clause
 
 ng () {
 	echo NG at Line $1
