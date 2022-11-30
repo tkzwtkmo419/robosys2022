@@ -1,9 +1,10 @@
 # robosys2022
 ロボットシステム学の練習リポジトリ
 
-# plusコマンド
 ![test](https://github.com/tkzwtkmo419/robosys2022/actions/workflows/test.yml/badge.svg)
 
+# plusコマンド
+* すべての数字を足し合わせる 
 
 # パッケージのインストール方法
 
